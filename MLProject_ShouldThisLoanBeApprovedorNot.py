@@ -109,5 +109,3 @@ print(f"Accuracy: {accuracy}")
 print("Confusion Matrix:\n", conf_matrix)
 print("Classification Report:\n", class_report)
 
-# Step 6: Deployment (Optional)
-# Deploy the model if needed
